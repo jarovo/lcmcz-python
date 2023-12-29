@@ -30,7 +30,7 @@ Potřebujeme ověřit, že tvé vývojové prostředí funguje. Cílem tedy bude
 > Jestli chceš vypisovat řetězec v Pythonu, budeš určitě potřebovat pochopit funkci print().
 
 > [!Important]
-> K čemu v Pythonu slouží funkce print()?
+> K čemu v Pythonu slouží funkce `print()`?
 
 Dále můžete program rozšířit o to aby se tento řetězec vypsal na obrazovku 1000x.
 
@@ -45,7 +45,7 @@ Další úkol je program změnit tak, aby nejprve přijmul text, který má vyps
 Co dál? Co takhle vypsat text 1000x ale tak, že každý řádek bude vypsán zvlášť, po vteřinách.
 
 > [!Important]
-> Jakým způsobem jste vypsali text na obrazovku 1000x - použili jste nějaký druh programové smyčky?
+> Jakým způsobem jste vypsali text na obrazovku 1000x - použili jste nějaký druh programové smyčky? (`for`, `while`)
  
 > [!Important]
 > Jaký a proč zrovna ten?
@@ -70,7 +70,7 @@ $ echo $?
 > Které problémy je potřeba při řešení tohoto úkolu vyřešit?
 
 > [!Important]
-> Jak nám poslouží funkce input() a str.split() a print()?
+> Jak nám poslouží funkce `input()` a `str.split()` a `print()`?
 
 ### Program Zdravič
 Cílem programu je najít způsob jak nahradit učitelovy pozdravy různými způsoby. Když zadám oslovení: Pepo
