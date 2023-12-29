@@ -5,19 +5,27 @@ Toto není test. Nebudeme se hodnotit. Ani mezi sebou. Jediný s kým se můžet
 Animace
 Vytvořte animaci s vánočním tématem.
 Nechte sprity reagovat jeden na druhý.
-Jak můžete změnit Váš projekt aby uživatel mohl ovlivňovat děj animace?
-Jak byste animaci/hru popsali kamarádovi?
+
+> [!Important]
+> Jak můžete změnit Váš projekt aby uživatel mohl ovlivňovat děj animace?
+
+> [!Important]
+> Jak byste animaci/hru popsali kamarádovi?
 
 ## Turle
 Vánoční stormeček
-Nakresli trojůhelník.
-Nakresli Vánoční stromeček. Můžeš znovu-použít  kód z 17 pomocí definice funkce?
-Můžeš přidat dárečky. Můžeš použít funkce tak abys udělal nějaký větší a jiný menší pomocí stejného kódu?
-Jak byste váš kód popsali kamarádovi?
+1. Nakresli trojůhelník.
+2. Nakresli Vánoční stromeček. Můžeš znovu-použít  kód z 1. pomocí definice funkce?
+3. Můžeš přidat dárečky. Můžeš použít funkce tak abys udělal nějaký větší a jiný menší pomocí stejného kódu?
+   
+> [!Important]
+> Jak byste váš kód popsali kamarádovi?
 
 ## Python
 ### První program “Ahoj světe”
-Potřebujeme ověřit, že tvé vývojové prostředí funguje. Cílem tedy bude vytisknout na obrazovku pomocí funkce print(“Ahoj světe”) řetězec “Ahoj světe” neboli “Hello world” na obrazovku. Při učení-se novému jazyku v programování často začínáme výpisem řetězce “Hello world” na obrazovku. Existuje spousta návodů na to jak vypsat tento řetězec v mnoha různých programovacích jazycích. Určitě někde na internetu najdete způsob jak toho jednoduše dosáhnout v Pythonu. Můžete použít již připravené online platformy jako je replit.com
+Potřebujeme ověřit, že tvé vývojové prostředí funguje. Cílem tedy bude vytisknout na obrazovku pomocí funkce print(“Ahoj světe”) řetězec “Ahoj světe” neboli “Hello world” na obrazovku. Při učení-se novému jazyku v programování často začínáme výpisem řetězce “Hello world” na obrazovku. Existuje spousta návodů na to jak vypsat tento řetězec v mnoha různých programovacích jazycích. Určitě někde na internetu najdete způsob jak toho jednoduše dosáhnout v Pythonu. Můžete použít již připravené online platformy jako je 
+[replit.com](replit.com) nebo pokud se chcete zabývat pouze Pythonem, pak můžete začít s [Google colab](https://colab.research.google.com/)
+
 > [!Important]
 > Jestli chceš vypisovat řetězec v Pythonu, budeš určitě potřebovat pochopit funkci print().
 
