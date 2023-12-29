@@ -22,8 +22,8 @@ Vánoční stormeček
 > Jak byste váš kód popsali kamarádovi?
 
 ## Python
-### První program “Ahoj světe”
-Potřebujeme ověřit, že tvé vývojové prostředí funguje. Cílem tedy bude vytisknout na obrazovku pomocí funkce print(“Ahoj světe”) řetězec “Ahoj světe” neboli “Hello world” na obrazovku. Při učení-se novému jazyku v programování často začínáme výpisem řetězce “Hello world” na obrazovku. Existuje spousta návodů na to jak vypsat tento řetězec v mnoha různých programovacích jazycích. Určitě někde na internetu najdete způsob jak toho jednoduše dosáhnout v Pythonu. Můžete použít již připravené online platformy jako je 
+### První program `"Ahoj světe"`
+Potřebujeme ověřit, že tvé vývojové prostředí funguje. Cílem tedy bude vytisknout na obrazovku pomocí funkce `print(“Ahoj světe”)` řetězec `"Ahoj světe"` neboli `"Hello world"` na obrazovku. Při učení-se novému jazyku v programování často začínáme výpisem řetězce `"Hello world"` na obrazovku. Existuje spousta návodů na to jak vypsat tento řetězec v mnoha různých programovacích jazycích. Určitě někde na internetu najdete způsob jak toho jednoduše dosáhnout v Pythonu. Můžete použít již připravené online platformy jako je 
 [replit.com](replit.com) nebo pokud se chcete zabývat pouze Pythonem, pak můžete začít s [Google colab](https://colab.research.google.com/)
 
 > [!Important]
