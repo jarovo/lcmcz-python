@@ -23,7 +23,7 @@ Vánoční stormeček
 
 ## Python
 ### První program `"Ahoj světe"`
-Potřebujeme ověřit, že tvé vývojové prostředí funguje. Cílem tedy bude vypsat text na obrazovku. Může k tomu použít funkci `print` například: `print(“Ahoj světe”)` vytiskne řetězec `"Ahoj světe"`. Při učení-se novému jazyku v programování často začínáme výpisem řetězce `"Hello world"`, neboli `"Ahoj světe"` na obrazovku. Existuje spousta návodů na to jak vypsat tento řetězec v mnoha různých programovacích jazycích. Určitě někde na internetu najdete způsob jak toho jednoduše dosáhnout v Pythonu. Můžete použít již připravené online platformy jako je 
+Potřebujeme ověřit, že tvé vývojové prostředí funguje. Cílem tedy bude vypsat text na obrazovku. Můžete k tomu použít funkci `print` například: `print(“Ahoj světe”)` vytiskne řetězec `"Ahoj světe"`. Při učení-se novému jazyku v programování často začínáme výpisem řetězce `"Hello world"`, neboli `"Ahoj světe"` na obrazovku. Existuje spousta návodů na to jak vypsat tento řetězec v mnoha různých programovacích jazycích. Určitě někde na internetu najdete způsob jak toho jednoduše dosáhnout v Pythonu. Můžete použít již připravené online platformy jako je 
 [replit.com](replit.com) nebo pokud se chcete zabývat pouze Pythonem, pak můžete začít s [Google colab](https://colab.research.google.com/)
 
 > [!Important]
