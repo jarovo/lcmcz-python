@@ -12,19 +12,10 @@ Nechte sprity reagovat jeden na druhý.
 > [!Important]
 > Jak byste animaci/hru popsali kamarádovi?
 
-## Turle
-Vánoční stormeček
-1. Nakresli trojůhelník.
-2. Nakresli Vánoční stromeček. Můžeš znovu-použít  kód z 1. pomocí definice funkce?
-3. Můžeš přidat dárečky. Můžeš použít funkce tak abys udělal nějaký větší a jiný menší pomocí stejného kódu?
-   
-> [!Important]
-> Jak byste váš kód popsali kamarádovi?
-
 ## Python
 ### První program `"Ahoj světe"`
-Potřebujeme ověřit, že tvé vývojové prostředí funguje. Cílem tedy bude vypsat text na obrazovku. Můžete k tomu použít funkci `print` například: `print(“Ahoj světe”)` vytiskne řetězec `"Ahoj světe"`. Při učení-se novému jazyku v programování často začínáme výpisem řetězce `"Hello world"`, neboli `"Ahoj světe"` na obrazovku. Existuje spousta návodů na to jak vypsat tento řetězec v mnoha různých programovacích jazycích. Určitě někde na internetu najdete způsob jak toho jednoduše dosáhnout v Pythonu. Můžete použít již připravené online platformy jako je 
-[replit.com](replit.com) nebo pokud se chcete zabývat pouze Pythonem, pak můžete začít s [Google colab](https://colab.research.google.com/)
+Potřebujeme ověřit, že tvé vývojové prostředí funguje. Cílem tedy bude vypsat text na obrazovku. Můžete k tomu použít funkci `print` například: `print(“Ahoj světe”)` vytiskne řetězec `"Ahoj světe"`. Při učení-se novému jazyku v programování často začínáme výpisem řetězce `"Hello world"`, neboli `"Ahoj světe"` na obrazovku. Existuje spousta návodů na to jak vypsat tento řetězec v mnoha různých programovacích jazycích. Určitě někde na internetu najdete způsob jak toho jednoduše dosáhnout v Pythonu. Můžete použít již připravené online prostředí jako je 
+[replit.com](http://replit.com) nebo pokud se chcete zabývat pouze Pythonem, pak můžete začít s [Google colab](https://colab.research.google.com/)
 
 > [!Important]
 > Jestli chceš vypisovat řetězec v Pythonu, budeš určitě potřebovat pochopit funkci print().
@@ -50,7 +41,17 @@ Co dál? Co takhle vypsat text 1000x ale tak, že každý řádek bude vypsán z
 > [!Important]
 > Jaký a proč zrovna ten?
 
-### Python a počty.
+
+### Turle
+Vánoční stormeček
+1. Nakresli trojůhelník.
+2. Nakresli Vánoční stromeček. Můžeš znovu-použít  kód z 1. pomocí definice funkce?
+3. Můžeš přidat dárečky. Můžeš použít funkce tak abys udělal nějaký větší a jiný menší pomocí stejného kódu?
+   
+> [!Important]
+> Jak byste váš kód popsali kamarádovi?
+
+### Sčítač
 Potřebujeme program co přijme na řádku několik čísel oddělených vždy alespoň jednou mezerou. Potřebujeme aby tento program čísla sečetl a matematicky správný výsledek dal na výstup.
 V případě, že nastane chyba, program musí skončit s exit status kódem jiným, než 0, takže v linuxu
 ```
