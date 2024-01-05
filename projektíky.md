@@ -41,6 +41,71 @@ Co dál? Co takhle vypsat text 1000x ale tak, že každý řádek bude vypsán z
 > [!Important]
 > Jaký a proč zrovna ten?
 
+## Boolean logic
+Často potřebujeme něco provézt pokud plati jedna ze dvou podmínek. Například když venku prší, nebo je noc, chci mít zavřené dveře:
+
+v Pythonu to můžu zachytit takto:
+```python
+raining = True
+nigt = False
+
+if raining or night:
+    zavrit_dvere()
+else:
+    otevrit_dvere()
+```
+
+Někdy potřebuji provézt něco pouze v případě, že obě podmínky jsou platné. Např u stroje: Stroj je vypnutý a netočí se.
+
+Když chci něco provézt pouze pokud něco neplatí:
+```python
+if not stopped:
+    print("Zapnuto")
+else:
+    print("Already started")
+```
+Jak zařídit, aby se kód dal spustit?
+
+```python
+is_stopped = True
+is_active = True
+
+def open_lock():
+  printí("Otvírám zámek")
+
+def close_lock():
+  printí("Zavírám zámek")
+
+if is_stopped and not is_active:
+    open_lock()
+else:
+    close_lock()
+```
+
+Vše můžu kombinovat:
+```python
+if not (raining or night) and (is_stopped and is_inactive):
+    open_lock()
+else:
+    print("Je nebezpečno otevřít stroj")
+```
+
+Detektivní případ: Představ si, že máš auto které udělalo přestupek. Auto se rozhodlo předjet. Program pro auto vypadá takto:
+```python
+
+def overtake():
+    print("Předjíždím")
+
+def drive_normally():
+    print("Jedu normálně")
+
+if not traffic_ahead and not being_overtaken and not turning:
+   overtake()
+else:
+   drive_normally()
+```
+které všechny podmínky mohly být porušeny, když vozidlo dostalo pokutu?
+
 
 ### Turle
 Vánoční stormeček
