@@ -49,10 +49,17 @@ v Pythonu to můžu zachytit takto:
 raining = True
 nigt = False
 
+def open_the_door():
+    print("otvírám dveře")
+
+def close_the_door():
+    print("zavírám dveře")
+
+
 if raining or night:
-    zavrit_dvere()
+    close_the_door()
 else:
-    otevrit_dvere()
+    open_the_door()
 ```
 
 Někdy potřebuji provézt něco pouze v případě, že obě podmínky jsou platné. Např u stroje: Stroj je vypnutý a netočí se.
